@@ -66,25 +66,50 @@
     --tw-contain-paint: ;
     --tw-contain-style: ;
 }
+html{
+    font-size:62.5%
+}
 body {
   background-color: var(--bg-color);
   font: Inter, sans-serif;
-   font-size: 32px;
+   font-size: 3.2rem;
 }
 
 p {
    font-size: 16px;
    font-weight: 700;
-   color:rgb(255, 92, 103)
+   color:var(--highlight-color)
 }
 .font-medium {
     font-weight: 500;
 }
+.uppercase {
+    text-transform: uppercase;
+}
+.text-txt-color-bright {
+    color: var(--txt-color-bright);
+}
+.tracking-tight {
+    letter-spacing: -.025em;
+}
+.font-extrabold {
+    font-wight: 800;
+}
+.text-4xl {
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+}
+.text-base {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+blockquote, dd, dl, fieldset, figure, h1, h2, h3, h4, h5, h6, hr, p, pre {
+    margin: .5rem;
+}
 </style>
 <body>
-<p >HI THERE,</p>
-<!-- <p  class="font-medium">HI THERE,</p> -->
-<h1>
+<p class= "uppercase">HI There,</p>
+<h1 class="text-txt-color-bright tracking-tight font-extrabold text-4xl">I'm Gerges 👋</h1>
 </body>
 
 <!--
