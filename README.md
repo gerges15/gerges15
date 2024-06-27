@@ -1,9 +1,5 @@
-
-<body>
-<p class= "uppercase">HI There,</p>
-<h1 class="text-txt-color-bright tracking-tight font-extrabold text-4xl">I'm Gerges 👋</h1>
-</body>
-
+<p>HI There,</p>
+<h1>I'm Gerges 👋</h1>
 <!--
 **gerges15/gerges15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
