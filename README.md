@@ -16,64 +16,106 @@ I'm a **_front-end_** and **_computer science_** engineer, a Linux lover ❤️,
 
 <!-- About me Section -->
 <details>
+<!-- about me  start of section -->
   <summary>More about me</summary>
   <br />
 <p align ="center">
   <img  src = "./images/ch.jpg" width = "35%"> </img>
 </p>
-
+<!-- Name -->
 <h3 align = "center"> Gerges Samy </h3>
+<!-- Status -->
 <p align = "center">
 Joiner Software Engineer
 <br>
 Minia, Egypt
 </p>
-</details>
-<p align = "right" >
 
-</p>
+<!-- summary about my self -->
+<h3> Introduction  </h3>
+<!-- My Interpersonal Skills -->
+<h3> My Skills </h3>
+<!-- My Technologies Skills -->
+<div>
+<h3> Technologies  </h3>
 
-<!--Github Stats -->
-<details>
-  <summary>  ⚡ Github Status</summary>
-  <img align = "left" src ="https://github-readme-stats.vercel.app/api?username=gerges15&show=reviews,discussions_started,discussions_answered,prs_merged,&show_icons=true&theme=dark#gh-dark-mode-only" width = "75%" height = "auto">
-</details>
-
-<br>
-
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000) -->
-
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerges15&show=reviews,discussions_started,discussions_answered,prs_merged,&show_icons=true&theme=dark#gh-dark-mode-only))
-
-
-
-&theme=dark#gh-dark-mode-only -->
+ <p> i master</p>
+ <br>
+ <div>
+ <p align = "center">
+ Frontend
 
 ##
 
-<!-- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gerges15&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/gerges15/github-readme-stats#gh-dark-mode-only)
+</p>
+</div>
+<!-- break comment line -->
+ <br>
+ <div>
+ <p align = "center">
+Platform
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
+##
 
-<!-- <blockquote>
+</p>
+</div>
+<!-- break comment line -->
+ <br>
+ <div>
+ <p align = "center">
+ DevOps
 
-**gerges15/gerges15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
- </blockquote> -->
+</p>
+</div>
 
+<!---->
+ <p>  I'm comfortable with</p>
+ <br>
+ <!---->
+ <p> Willing to learn</p>
+ <br>
+ <!---->
+</div>
+<!-- break comment line -->
+<!--Languages -->
+<h3> Human languages I speak  </h3>
+<!-- about me  end of section -->
+</details>
+
+<!--Github Stats -->
+<details>
+<!-- Stats start of section -->
+  <summary>  ⚡ Github Status</summary>
+  <img align = "left" src ="https://github-readme-stats.vercel.app/api?username=gerges15&show=reviews,discussions_started,discussions_answered,prs_merged,&show_icons=true&theme=dark#gh-dark-mode-only" width = "75%" height = "auto">
+<!-- Stats end of section -->
+</details>
+
+<!--blocks to copy -->
 <!--
-**gerges15/gerges15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+//centered block
+<p align = "center">
+  type something here
+</p>
 
-Here are some ideas to get you started:
+ <div>
+ <p align = "center">
+  type something here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+##
+</p>
+</div>
+#########################
+//to make details section
+<details>
+  <summary>  Header</summary>
+    type something here
+</details>
+#########################
+//to make details section
+<details>
+  <summary>  ⚡ Github Status</summary>
+</details>
+
+ -->
