@@ -17,7 +17,7 @@ I'm a **_front-end_** and **_computer science_** engineer, a Linux lover ❤️,
 <!-- About me Section -->
 <details>
 <!-- about me  start of section -->
-  <summary>More about me</summary>
+  <summary> More about me</summary>
   <br />
 <p align ="center">
   <img  src = "./images/Mypic.png" width = "auto"> </img>
@@ -47,6 +47,15 @@ Minia, Egypt
 
 ##
 
+<p align = "center">
+<!-- javaScript Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/javascript/_" />
+<!-- html5 Icon -->
+  <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/html5/_" /> 
+<!-- css3 Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/css3/_" />
+
+</p>
 </p>
 </div>
 <!-- break comment line -->
@@ -57,6 +66,11 @@ Platform
 
 ##
 
+<p align = "center">
+<!-- linux Icon -->
+  <img height="32" width="32" src="https://cdn.simpleicons.org/linux/_" />
+
+</p>
 </p>
 </div>
 <!-- break comment line -->
@@ -67,16 +81,23 @@ Platform
 
 ##
 
+<p align = "center">
+<!-- Git Icon -->
+  <img height="32" width="32" src="https://cdn.simpleicons.org/git/_" />
+<!-- GitHub Icon -->
+ <img height="32" width="32" src="https://cdn.simpleicons.org/github/_/eee" />
+
+</p>
+
 </p>
 </div>
 
-<!---->
+<!--
  <p>  I'm comfortable with</p>
  <br>
- <!---->
+ -->
  <p> Willing to learn</p>
  <br>
- <!---->
 </div>
 <!-- break comment line -->
 <!--Languages -->
@@ -119,3 +140,4 @@ Platform
 </details>
 
  -->
+<!--

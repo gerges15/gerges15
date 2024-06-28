@@ -122,3 +122,106 @@ Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer, pro
 <br><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/select.png" height="35"/></a> <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/start.png" height="35" /></a>
 
   </div>
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/gray" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/hotpink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/0cf" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/0cf9" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/00ccff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/00ccff99" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/orange/pink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/eee/_" />
+
+<img height="20" src="https://cdn.simpleicons.org/javascript?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/simpleicons?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/awesomelists?viewbox=auto" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/gray" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/hotpink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/0cf" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/0cf9" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/00ccff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/00ccff99" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/orange/pink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/eee/_" />
+
+<img height="20" src="https://cdn.simpleicons.org/html5?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/simpleicons?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/awesomelists?viewbox=auto" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/gray" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/hotpink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/0cf" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/0cf9" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/00ccff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/00ccff99" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/orange/pink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/eee/_" />
+
+<img height="20" src="https://cdn.simpleicons.org/visualstudiocode?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/simpleicons?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/awesomelists?viewbox=auto" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/github/gray" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/github/hotpink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/github/0cf" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/github/0cf9" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/github/00ccff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/github/00ccff99" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/github/orange/pink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/github/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/github/eee/_" />
+
+<img height="20" src="https://cdn.simpleicons.org/github?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/simpleicons?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/awesomelists?viewbox=auto" />
+
+<img width = "148"  src = "https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></img>
+
+<p align = "center">
+ Frontend
+
+##
+
+<p align = "center">
+<!-- javaScript Icon -->
+
+  <img align ="center" height = "40"  width = "148"  src = "https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<!-- html5 Icon -->
+  <img align ="center" height = "40"  width = "148"  src = "https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5"/>
+<!-- css3 Icon -->
+<p align = "center">
+   <img align ="center" height = "40"  width = "148"  src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<p align = "center">
+   <img align ="center" height = "40"  width = "148"  src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo="/>
+<p align = "center">
+   <img align ="center" height = "40"  width = "148"  src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo='./images/51f07a9274c577f6df844fe1f579fe0c.jpg')
+
+<!-- html5 Icon -->
+
+</p>
+</p>
+
+ <p align = "center">
+ Frontend
+
+##
+
+<p align = "center">
+<!-- javaScript Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/javascript/_" />
+<!-- html5 Icon -->
+  <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/html5/_" /> 
+<!-- css3 Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/css3/_" />
+<!-- html5 Icon -->
+
+</p>
+</p>
