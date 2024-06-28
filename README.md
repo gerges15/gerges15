@@ -2,17 +2,23 @@
 
 <p align-texts = "center" >
 
-### **HI THERE,**
+##### **HI THERE,**
 
-# I'm **Gerges** 👋
+### I'm **Gerges** 👋
 
 <p>
 
-I'm a **_front-end_** and **_computer science_** engineer, a Linux lover ❤️, who loves exploring new technologies and tools. Every time I learn something new 💡, I try to write about it and share my knowledge with others.
+I'm a **_front-end_** and **_computer science_** engineer, a Linux lover ❤️, <br>who loves exploring new technologies and tools. Every time I learn something new 💡, I try to write about it and share my knowledge with others.
 
 </p>
 
 ---
+
+<!-- <blockquote>
+
+**gerges15/gerges15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ </blockquote> -->
 
 <!--
 **gerges15/gerges15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
