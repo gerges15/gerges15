@@ -20,7 +20,7 @@ I'm a **_front-end_** and **_computer science_** engineer, a Linux lover ❤️,
   <summary>More about me</summary>
   <br />
 <p align ="center">
-  <img  src = "./images/ch.jpg" width = "35%"> </img>
+  <img  src = "./images/Mypic.png" width = "auto"> </img>
 </p>
 <!-- Name -->
 <h3 align = "center"> Gerges Samy </h3>
