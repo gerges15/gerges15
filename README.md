@@ -41,6 +41,7 @@ Minia, Egypt
 
  <p> i master</p>
  <br>
+ <br>
  <div>
  <p align = "center">
  Frontend
@@ -60,6 +61,7 @@ Minia, Egypt
 </div>
 <!-- break comment line -->
  <br>
+ <br>
  <div>
  <p align = "center">
 Platform
@@ -74,6 +76,7 @@ Platform
 </p>
 </div>
 <!-- break comment line -->
+ <br>
  <br>
  <div>
  <p align = "center">

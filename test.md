@@ -212,7 +212,7 @@ Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer, pro
  <p align = "center">
  Frontend
 
-##
+<hr>
 
 <p align = "center">
 <!-- javaScript Icon -->
@@ -225,3 +225,34 @@ Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer, pro
 
 </p>
 </p>
+
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/css3/_" />
+
+</p>
+</p>
+</div>
+<!-- break comment line -->
+ <br>
+ <div>
+ <p align = "center">
+Platform
+
+##
+
+<p align = "center">
+<!-- linux Icon -->
+  <img height="32" width="32" src="https://cdn.simpleicons.org/linux/_" />
+
+</p>
+</p>
+</div>
+<!-- break comment line -->
+ <br>
+ <br>
+ <br>
+ <br>
+ <div>
+ <p align = "center">
+ DevOps
+
+##
