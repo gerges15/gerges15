@@ -54,7 +54,9 @@ Minia, Egypt
   <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/html5/_" /> 
 <!-- css3 Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/css3/_" />
-
+<!-- Bootstrap Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/eee/_" />
+  <br>
 </p>
 </p>
 </div>
@@ -100,15 +102,42 @@ Platform
  -->
  <p> <em> Willing to learn </em></p>
  <br>
+ <!-- Part 1 -->
 <p align = "center">
 <!-- React Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/react/_" />
 <!-- Redux Icon -->
   <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/redux/_" /> 
-<!-- Mongodb Icon -->
-  <!--img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mondodp/_" /-->
-
+<!-- Mongo Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mongodb/_" />
+<!-- Material UI Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mui/eee/_" />
+  <br>
 </p>
+ <!-- Part 2 -->
+<p align = "center">
+<!-- React Query UI Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/chakraui/_" />
+<!-- Express Icon -->
+  <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/express/_" /> 
+<!-- Mongo Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mongodb/_" />
+<!-- Mongo Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mongodb/eee/_" />
+  <br>
+</p>
+</p>
+ <!-- Part 2 -->
+<p align = "center">
+<!-- Chakra UI Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/chakraui/_" />
+<!-- Express Icon -->
+  <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/express/_" /> 
+<!-- Mongo Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mongodb/_" />
+<!-- Mongo Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mongodb/eee/_" />
+  <br>
 </p>
 
 </div>

@@ -273,3 +273,36 @@ Platform
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/redux/_/eee" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/redux/eee/_" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/eee/_" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/eee/_" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/next.js/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/next.js/eee/_" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/eee/_" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/reactrouter/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/reactrouter/eee/_" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/reacthookform/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/reacthookform/eee/_" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/mui/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/mui/eee/_" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/chakraui/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/chakraui/eee/_" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/npm/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/npm/eee/_" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/sass/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/sass/eee/_" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/eee/_" />
