@@ -24,10 +24,19 @@ I'm a **_front-end_** and **_computer science_** engineer, a Linux lover ❤️,
 <!-- Stats -->
 <details>
   <summary>  ⚡ Github Status</summary>
-  <img align = "left" src ="https://github-readme-stats.vercel.app/api?username=gerges15&show_icons=true&theme=dark#gh-dark-mode-only https://github.com/gerges15/github-readme-stats#gh-dark-mode-only" width = "75%" height = "auto">
+  <img align = "left" src ="https://github-readme-stats.vercel.app/api?username=gerges15&show=reviews,discussions_started,discussions_answered,prs_merged,&show_icons=true&theme=dark#gh-dark-mode-only" width = "75%" height = "auto">
 </details>
 
 <br>
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000) -->
+
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerges15&show=reviews,discussions_started,discussions_answered,prs_merged,&show_icons=true&theme=dark#gh-dark-mode-only))
+
+
+
+&theme=dark#gh-dark-mode-only -->
 
 ##
 
