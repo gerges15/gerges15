@@ -39,7 +39,7 @@ Minia, Egypt
 <div>
 <h3> Technologies  </h3>
 
- <p> i master</p>
+ <p> <em>i master </em></p>
  <br>
  <br>
  <div>
@@ -99,7 +99,7 @@ Platform
  <p>  I'm comfortable with</p>
  <br>
  -->
- <p> Willing to learn</p>
+ <p> <em> Willing to learn </em></p>
  <br>
 </div>
 <!-- break comment line -->
