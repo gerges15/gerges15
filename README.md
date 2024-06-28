@@ -1,5 +1,7 @@
+<!-- banner -->
 <p align ="center"> <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGN0eTZpb2l3dWJjaDR4anlmMXh6bTdpMnUxeDkwczhlZDA1NXdkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="75%" height= "auto" /> </p>
 
+<!-- Summary Section  -->
 <p align-texts = "center" >
 
 ##### **HI THERE,**
@@ -11,17 +13,27 @@
 I'm a **_front-end_** and **_computer science_** engineer, a Linux lover ❤️, <br>who loves exploring new technologies and tools. Every time I learn something new 💡, I try to write about it and share my knowledge with others.
 
 </p>
+
+<!-- About me Section -->
 <details>
   <summary>More about me</summary>
   <br />
-<img align = "center" src = ""> </img>
+<p align ="center">
+  <img  src = "./images/ch.jpg" width = "35%"> </img>
+</p>
 
+<h3 align = "center"> Gerges Samy </h3>
+<p align = "center">
+Joiner Software Engineer
+<br>
+Minia, Egypt
+</p>
 </details>
 <p align = "right" >
 
 </p>
 
-<!-- Stats -->
+<!--Github Stats -->
 <details>
   <summary>  ⚡ Github Status</summary>
   <img align = "left" src ="https://github-readme-stats.vercel.app/api?username=gerges15&show=reviews,discussions_started,discussions_answered,prs_merged,&show_icons=true&theme=dark#gh-dark-mode-only" width = "75%" height = "auto">
@@ -29,7 +41,8 @@ I'm a **_front-end_** and **_computer science_** engineer, a Linux lover ❤️,
 
 <br>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000) -->
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000) -->
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerges15&show=reviews,discussions_started,discussions_answered,prs_merged,&show_icons=true&theme=dark#gh-dark-mode-only))
