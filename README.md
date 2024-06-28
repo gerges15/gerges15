@@ -55,9 +55,9 @@ Minia, Egypt
 <!-- css3 Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/css3/_" />
 <!-- Bootstrap Icon -->
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/eee/_" />
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/_/eee" />
 <!-- Netlify Icon -->
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/netlify/eee/_" />
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/netlify/_/eee" />
   <br>
 </p>
 </p>
@@ -110,7 +110,7 @@ Platform
 <!-- Tailwind CSS UI Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/_" />
 <!-- Sass UI Icon -->
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/sass/eee/_" />
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/sass/_/eee" />
   <br>
 
 ###
@@ -118,7 +118,7 @@ Platform
 <!-- Package Manger -->
 <!-- NPM UI Icon -->
 <p align = "center">
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/npm/eee/_" />
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/npm/_/eee" />
   <br>
 
 ###
@@ -128,11 +128,11 @@ Platform
 <p align = "center">
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/react/_" />
 <!-- Material UI Icon -->
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mui/eee/_" />
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mui/_/eee" />
 <!-- Chakra UI Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/chakraui/_" />
 <!-- React Router Icon -->
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/reactrouter/eee/_" />
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/reactrouter/_/eee" />
 <!-- React Hook Form Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/reacthookform/_" />
 <!-- Redux Icon -->
