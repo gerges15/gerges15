@@ -239,6 +239,10 @@ Platform
 
 ##
 
+---
+
+---
+
 <p align = "center">
 <!-- linux Icon -->
   <img height="32" width="32" src="https://cdn.simpleicons.org/linux/_" />
@@ -256,3 +260,16 @@ Platform
  DevOps
 
 ##
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/linux/gray" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linux/hotpink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linux/0cf" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linux/0cf9" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linux/00ccff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linux/00ccff99" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linux/orange/pink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linux/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linux/eee/_" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/redux/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/redux/eee/_" />

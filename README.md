@@ -41,7 +41,6 @@ Minia, Egypt
 
  <p> <em>i master </em></p>
  <br>
- <br>
  <div>
  <p align = "center">
  Frontend
@@ -101,7 +100,19 @@ Platform
  -->
  <p> <em> Willing to learn </em></p>
  <br>
+<p align = "center">
+<!-- React Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/react/_" />
+<!-- Redux Icon -->
+  <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/redux/_" /> 
+<!-- Mongodb Icon -->
+  <!--img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mondodp/_" /-->
+
+</p>
+</p>
+
 </div>
+
 <!-- break comment line -->
 <!--Languages -->
 <h3> Human languages I speak  </h3>
