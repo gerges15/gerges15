@@ -146,7 +146,7 @@ Platform
 <!-- Next.js Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/next.js/_" />
 <!-- TypeScript Icon -->
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/typescript/eee/_" />
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/typescript/_/eee" />
 <!-- Node.js Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/node.js/_" />
 <!-- Mongo Icon -->
