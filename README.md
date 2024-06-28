@@ -56,6 +56,8 @@ Minia, Egypt
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/css3/_" />
 <!-- Bootstrap Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/eee/_" />
+<!-- Netlify Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/netlify/eee/_" />
   <br>
 </p>
 </p>
@@ -104,45 +106,80 @@ Platform
  <br>
  <!-- Part 1 -->
 <p align = "center">
+<!-- CSS Framework and Preprocessor -->
+<!-- Tailwind CSS UI Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/_" />
+<!-- Sass UI Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/sass/eee/_" />
+  <br>
+
+###
+
+<!-- Package Manger -->
+<!-- NPM UI Icon -->
+<p align = "center">
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/npm/eee/_" />
+  <br>
+
+###
+
+  <!-- React and related to -->
 <!-- React Icon -->
+<p align = "center">
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/react/_" />
-<!-- Redux Icon -->
-  <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/redux/_" /> 
-<!-- Mongo Icon -->
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mongodb/_" />
 <!-- Material UI Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mui/eee/_" />
-  <br>
-</p>
- <!-- Part 2 -->
-<p align = "center">
-<!-- React Query UI Icon -->
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/chakraui/_" />
-<!-- Express Icon -->
-  <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/express/_" /> 
-<!-- Mongo Icon -->
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mongodb/_" />
-<!-- Mongo Icon -->
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mongodb/eee/_" />
-  <br>
-</p>
-</p>
- <!-- Part 2 -->
-<p align = "center">
 <!-- Chakra UI Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/chakraui/_" />
-<!-- Express Icon -->
-  <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/express/_" /> 
+<!-- React Router Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/reactrouter/eee/_" />
+<!-- React Hook Form Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/reacthookform/_" />
+<!-- Redux Icon -->
+  <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/redux/_" /> 
+  <br>
+
+###
+
+<!-- other tech  -->
+<p align = "center">
+<!-- Next.js Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/next.js/_" />
+<!-- TypeScript Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/typescript/eee/_" />
+<!-- Node.js Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/node.js/_" />
 <!-- Mongo Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mongodb/_" />
-<!-- Mongo Icon -->
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mongodb/eee/_" />
+<!-- Express Icon -->
+  <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/express/_" />
+  <br>
+
+###
+
+<!-- Deploy with services  -->
+<p align = "center">
+<!-- Vercel Icon -->
+  <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/vercel/_" />
+  <br>
+
+###
+
+<!-- Test with Libraries/frameworks  -->
+<p align = "center">
+<!-- Jest Icon -->
+  <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/jest/_" />
+<!-- Testing Library Icon -->
+  <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/testinglibrary/_" />
   <br>
 </p>
 
 </div>
 
+ <p> <em> In progress </em></p>
+ <br>
 <!-- break comment line -->
+
 <!--Languages -->
 <h3> Human languages I speak  </h3>
 <!-- about me  end of section -->

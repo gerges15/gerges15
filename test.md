@@ -306,3 +306,23 @@ Platform
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/_/eee" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/eee/_" />
+
+<!-- Sass UI Icon -->
+<p align = "center">
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/sass/eee/_" />
+
+###
+
+###
+
+<!-- Package Manger -->
+<!-- NPM UI Icon -->
+<p align = "center">
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/npm/eee/_" />
+  <br>
+  <br>
+<!-- Package Manger -->
+<!-- NPM UI Icon -->
+<p align = "center">
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/npm/eee/_" />
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/node.js/_" />
