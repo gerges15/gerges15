@@ -2,7 +2,7 @@ name: Update README with Spotify Status
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # Runs every 30 minutes
+    - cron: "*/30 * * * *" # Runs every 30 minutes
   workflow_dispatch:
 
 jobs:
@@ -16,5 +16,4 @@ jobs:
           client-id: ${{ secrets.SPOTIFY_CLIENT_ID }}
           client-secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           refresh-token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          show_offline: 'false' # Set to true to show when you are offline
-s
+          show_offline: "false" # Set to true to show when you are offline
