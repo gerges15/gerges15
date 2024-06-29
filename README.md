@@ -6,7 +6,7 @@
 
 ##### **HI THERE,**
 
-### I'm **Gerges** 👋
+### I'm [**Gerges!**](#gerges-id) 👋
 
 <p>
 
@@ -97,6 +97,17 @@ Platform
 
 </p>
 </div>
+<br>
+<br>
+<!-- IDE -->
+ <p align = "center">
+ ❤ IDE
+
+##
+
+<p align = "center">
+<!-- Visual Studio Code Icon -->
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/00ccff" />
 
 <!--
  <p>  I'm comfortable with</p>
@@ -124,10 +135,8 @@ Platform
 ###
 
   <!-- React and related to -->
-<!-- React Icon -->
-<p align = "center">
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/react/_" />
 <!-- Material UI Icon -->
+<p align = "center">
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mui/007FFF" />
 <!-- Chakra UI Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/chakraui/CA4245" />
@@ -145,8 +154,6 @@ Platform
 <p align = "center">
 <!-- Next.js Icon -->
 <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/next.js/_/eee" />
-<!-- TypeScript Icon -->
-<img  align = "center" height="32" width="32" src="https://cdn.simpleicons.org/typescript/00ccff" />
 <!-- Node.js Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/node.js/_" />
 <!-- Mongo Icon -->
@@ -178,6 +185,11 @@ Platform
 
  <p> <em> In progress </em></p>
  <br>
+ <!-- React Icon -->
+<p align = "center">
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/react/_" />
+  <!-- TypeScript Icon -->
+<img  align = "center" height="32" width="32" src="https://cdn.simpleicons.org/typescript/00ccff" />
 <!-- break comment line -->
 
 <!--Languages -->
@@ -189,7 +201,7 @@ Platform
 <details>
 <!-- Stats start of section -->
   <summary>  ⚡ Github Status</summary>
-  <img align = "left" src ="https://github-readme-stats.vercel.app/api?username=gerges15&show=reviews,discussions_started,discussions_answered,prs_merged,&show_icons=true&theme=dark#gh-dark-mode-only" width = "75%" height = "auto">
+  <img align = "left" src ="https://github-readme-stats.vercel.app/api?username=gerges15&show=reviews&show_icons=true&theme=dark#gh-dark-mode-only" width = "75%" height = "auto">
 <!-- Stats end of section -->
 </details>
 
