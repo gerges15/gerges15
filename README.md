@@ -55,7 +55,7 @@ Minia, Egypt
 <!-- css3 Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/css3/_" />
 <!-- Bootstrap Icon -->
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/eee/_" />
+<img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/7952B3" />
 <!-- Netlify Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/netlify/eee/_" />
   <br>
@@ -144,15 +144,15 @@ Platform
 <!-- other tech  -->
 <p align = "center">
 <!-- Next.js Icon -->
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/next.js/_" />
+<img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/next.js/_/eee" />
 <!-- TypeScript Icon -->
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/typescript/eee/_" />
+<img  align = "center" height="32" width="32" src="https://cdn.simpleicons.org/typescript/00ccff" />
 <!-- Node.js Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/node.js/_" />
 <!-- Mongo Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mongodb/_" />
 <!-- Express Icon -->
-  <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/express/_" />
+<img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/express/_/eee" />
   <br>
 
 ###

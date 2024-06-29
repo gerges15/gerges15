@@ -326,3 +326,13 @@ Platform
 <p align = "center">
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/npm/eee/_" />
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/node.js/_" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/vercel/gray" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/vercel/hotpink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/vercel/0cf" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/vercel/0cf9" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/vercel/00ccff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/vercel/00ccff99" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/vercel/orange/pink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/vercel/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/vercel/eee/_" />
