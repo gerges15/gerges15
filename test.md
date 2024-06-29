@@ -327,13 +327,13 @@ Platform
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/npm/eee/_" />
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/node.js/_" />
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/sass/0cf" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/sass/0cf9" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/sass/00ccff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/sass/00ccff99" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/sass/orange/pink" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/sass/_/eee" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/sass/eee/_" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/windows/0cf" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/windows/0cf9" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/windows/00ccff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/windows/00ccff99" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/windows/orange/pink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/windows/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/windows/eee/_" />
 
 [**GERGES**](#gerges-id)
 

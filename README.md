@@ -74,7 +74,7 @@ Platform
 <p align = "center">
 <!-- linux Icon -->
   <img height="32" width="32" src="https://cdn.simpleicons.org/linux/_" />
-
+<img height="32" width="32" src="https://cdn.simpleicons.org/windows/00ccff" />
 </p>
 </p>
 </div>
