@@ -1,15 +1,5 @@
 <p align="center">
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/NezukoSocial"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/pochita" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#ac8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/giingu"><img width="32px" alt="Dev.to" title="Giingu Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/nezukobot"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=" https://www.patreon.com/nezukobot"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
 ---
@@ -327,13 +317,13 @@ Platform
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/npm/eee/_" />
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/node.js/_" />
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/windows/0cf" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/windows/0cf9" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/windows/00ccff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/windows/00ccff99" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/windows/orange/pink" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/windows/_/eee" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/windows/eee/_" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/facebook/0cf" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/facebook/0cf9" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/facebook/00ccff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/facebook/00ccff99" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/facebook/orange/pink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/facebook/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/facebook/eee/_" />
 
 [**GERGES**](#gerges-id)
 
@@ -342,3 +332,28 @@ Platform
 df
 
 </link>
+<p align = "center">
+ Frontend
+
+##
+
+<p align = "center">
+<!-- javaScript Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/javascript/_" />
+   &#8287;&#8287;
+<!-- html5 Icon -->
+  <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/html5/_" /> 
+   &#8287;&#8287; &#8287;
+<!-- css3 Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/css3/_" />
+   &#8287;&#8287; &#8287;&#8287;
+<!-- Bootstrap Icon -->
+<img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/7952B3" />
+ &#8287;&#8287; &#8287;&#8287; &#8287;
+<!-- Netlify Icon -->
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/netlify/00C7B7" />
+   &#8287;&#8287;
+  <br>
+</p>
+</p>
+</div>

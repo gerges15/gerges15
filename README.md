@@ -20,8 +20,16 @@ I'm a **_front-end_** and **_computer science_** engineer, a Linux lover ❤️,
   <summary> More about me</summary>
   <br />
 <p align ="center">
-  <img  src = "./images/Mypic.png" width = "auto"> </img>
+  <img  src = "./images/Mypic.png" width = "auto" href = "#"> </img>
 </p>
+<!-- Contact Details -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/gerges-samy404"><img height="25" width="25px"  alt="linkedin" title="Linkedin" src="https://cdn.simpleicons.org/linkedin/00ccff"/></a>
+    &#8287;&#8287;
+  <a href="https://www.facebook.com/gerges.samy.404/"><img height="25" width="25px" alt="Gmail" title="Facebook" src="https://cdn.simpleicons.org/facebook/0866FF"/></a>
+    &#8287;&#8287;
+</p>
+
 <!-- Name -->
 <h3 align = "center"> Gerges Samy </h3>
 <!-- Status -->
@@ -50,12 +58,16 @@ Minia, Egypt
 <p align = "center">
 <!-- javaScript Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/javascript/_" />
+   &#8287;&#8287;
 <!-- html5 Icon -->
   <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/html5/_" /> 
+   &#8287;&#8287; 
 <!-- css3 Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/css3/_" />
+   &#8287;&#8287; 
 <!-- Bootstrap Icon -->
 <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/7952B3" />
+ &#8287;&#8287; 
 <!-- Netlify Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/netlify/00C7B7" />
   <br>
@@ -74,6 +86,8 @@ Platform
 <p align = "center">
 <!-- linux Icon -->
   <img height="32" width="32" src="https://cdn.simpleicons.org/linux/_" />
+   &#8287;&#8287; 
+  <!-- Windows Icon -->
 <img height="32" width="32" src="https://cdn.simpleicons.org/windows/00ccff" />
 </p>
 </p>
@@ -90,6 +104,7 @@ Platform
 <p align = "center">
 <!-- Git Icon -->
   <img height="32" width="32" src="https://cdn.simpleicons.org/git/_" />
+   &#8287;&#8287;
 <!-- GitHub Icon -->
  <img height="32" width="32" src="https://cdn.simpleicons.org/github/_/eee" />
 
@@ -120,6 +135,7 @@ Platform
 <!-- CSS Framework and Preprocessor -->
 <!-- Tailwind CSS UI Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/_" />
+   &#8287;&#8287;
 <!-- Sass UI Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/sass/FF69B4" />
   <br>
@@ -138,12 +154,16 @@ Platform
 <!-- Material UI Icon -->
 <p align = "center">
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mui/007FFF" />
+   &#8287;&#8287;
 <!-- Chakra UI Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/chakraui/CA4245" />
+   &#8287;&#8287;
 <!-- React Router Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/reactrouter/_/eee" />
+   &#8287;&#8287; 
 <!-- React Hook Form Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/reacthookform/_" />
+   &#8287;&#8287; 
 <!-- Redux Icon -->
   <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/redux/_" /> 
   <br>
@@ -154,10 +174,13 @@ Platform
 <p align = "center">
 <!-- Next.js Icon -->
 <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/next.js/_/eee" />
+ &#8287;&#8287; 
 <!-- Node.js Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/node.js/_" />
+   &#8287;&#8287; 
 <!-- Mongo Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mongodb/_" />
+   &#8287;&#8287; 
 <!-- Express Icon -->
 <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/express/_/eee" />
   <br>
@@ -176,6 +199,7 @@ Platform
 <p align = "center">
 <!-- Jest Icon -->
   <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/jest/_" />
+   &#8287;&#8287; 
 <!-- Testing Library Icon -->
   <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/testinglibrary/_" />
   <br>
@@ -188,6 +212,7 @@ Platform
  <!-- React Icon -->
 <p align = "center">
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/react/_" />
+   &#8287;&#8287; 
   <!-- TypeScript Icon -->
 <img  align = "center" height="32" width="32" src="https://cdn.simpleicons.org/typescript/00ccff" />
 <!-- break comment line -->
