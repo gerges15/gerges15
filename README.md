@@ -55,11 +55,9 @@ Minia, Egypt
 <!-- css3 Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/css3/_" />
 <!-- Bootstrap Icon -->
-
 <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/7952B3" />
-
 <!-- Netlify Icon -->
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/netlify/_/eee" />
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/netlify/00C7B7" />
   <br>
 </p>
 </p>
@@ -112,7 +110,7 @@ Platform
 <!-- Tailwind CSS UI Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/_" />
 <!-- Sass UI Icon -->
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/sass/_/eee" />
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/sass/FF69B4" />
   <br>
 
 ###
@@ -120,7 +118,7 @@ Platform
 <!-- Package Manger -->
 <!-- NPM UI Icon -->
 <p align = "center">
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/npm/_/eee" />
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/npm/FF69B4" />
   <br>
 
 ###
@@ -130,9 +128,9 @@ Platform
 <p align = "center">
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/react/_" />
 <!-- Material UI Icon -->
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mui/_/eee" />
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/mui/007FFF" />
 <!-- Chakra UI Icon -->
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/chakraui/_" />
+  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/chakraui/CA4245" />
 <!-- React Router Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/reactrouter/_/eee" />
 <!-- React Hook Form Icon -->
@@ -148,9 +146,7 @@ Platform
 <!-- Next.js Icon -->
 <img align = "center"  height="32" width="32" src="https://cdn.simpleicons.org/next.js/_/eee" />
 <!-- TypeScript Icon -->
-
 <img  align = "center" height="32" width="32" src="https://cdn.simpleicons.org/typescript/00ccff" />
-
 <!-- Node.js Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/node.js/_" />
 <!-- Mongo Icon -->
