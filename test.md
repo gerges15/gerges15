@@ -386,3 +386,5 @@ https://open.spotify.com/user/31khtckyxhdxdbftoriaaj6wzyze?si=421143326074460a
 
 &nbsp;<div align="center">
 ![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
+
+[![Spotify](https://novatorem-lbv8-f3aozj0o2-gerges-samys-projects.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
