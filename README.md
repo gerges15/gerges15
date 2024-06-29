@@ -55,11 +55,9 @@ Minia, Egypt
 <!-- css3 Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/css3/_" />
 <!-- Bootstrap Icon -->
-<<<<<<< HEAD
+
 <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/7952B3" />
-=======
-  <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/_/eee" />
->>>>>>> e9e6ef65dcd3e9743ea7e0b6f8736251653a56e8
+
 <!-- Netlify Icon -->
   <img align = "center" height="32" width="32" src="https://cdn.simpleicons.org/netlify/_/eee" />
   <br>
