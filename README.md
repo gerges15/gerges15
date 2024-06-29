@@ -226,7 +226,7 @@ Platform
 <details>
 <!-- Stats start of section -->
   <summary>  ⚡ Github Status</summary>
-  <img align = "center" src ="https://github-readme-stats-five-pink-26.vercel.app/api?username=gerges15&show=reviews&show_icons=true\&rank_icon=github" width = "50%" height = "auto">
+  <img align = "center" src ="https://github-readme-stats-five-pink-26.vercel.app/api?username=gerges15&show=reviews&show_icons=true&rank_icon=github&theme=transparent" width = "50%" height = "auto">
 <!-- Stats end of section -->
 </details>
  
