@@ -259,4 +259,4 @@ Platform
  -->
 <!---->
 
-[![Spotify](https://novatorem-lbv8-f3aozj0o2-gerges-samys-projects.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
