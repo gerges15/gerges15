@@ -143,12 +143,6 @@ Platform
 ###
 
 <!-- Package Manger -->
-<!-- NPM UI Icon -->
-<p align = "center">
-  <img align = "center" height="32" width="32" title = "Node Package Manager" src="https://cdn.simpleicons.org/npm/FF69B4" />
-  <br>
-
-###
 
   <!-- React and related to -->
 <!-- Material UI Icon -->
@@ -215,6 +209,9 @@ Platform
    &#8287;&#8287; 
   <!-- TypeScript Icon -->
 <img  align = "center" height="32" width="32" title = "TypeScript"  src="https://cdn.simpleicons.org/typescript/00ccff" />
+  &#8287;&#8287; 
+<!-- NPM UI Icon -->
+<img  align = "center" height="32" width="32" title = "TypeScript"  src="https://cdn.simpleicons.org/npm/FF69B4" />
 <!-- break comment line -->
 
 <!--Languages -->
@@ -233,9 +230,8 @@ Platform
 
 <!-- Stats end of section -->
 </details>
- 
 
- 
+
 <!--blocks to copy -->
 <!--
 //centered block
@@ -264,5 +260,3 @@ Platform
 
  -->
 <!---->
-
-
