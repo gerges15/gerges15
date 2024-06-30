@@ -210,8 +210,8 @@ Platform
   <!-- TypeScript Icon -->
 <img  align = "center" height="32" width="32" title = "TypeScript"  src="https://cdn.simpleicons.org/typescript/00ccff" />
   &#8287;&#8287; 
-<!-- NPM UI Icon -->
-<img  align = "center" height="32" width="32" title = "TypeScript"  src="https://cdn.simpleicons.org/npm/FF69B4" />
+<!-- NPM  Icon -->
+<img  align = "center" height="32" width="32" title = "Node Pacage Manager"  src="https://cdn.simpleicons.org/npm/FF69B4" />
 <!-- break comment line -->
 
 <!--Languages -->
