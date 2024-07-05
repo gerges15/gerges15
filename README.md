@@ -34,7 +34,7 @@ I'm a **_front-end_** and **_computer science_** engineer, a Linux lover ❤️,
 <h3 align = "center"> Gerges Samy </h3>
 <!-- Status -->
 <p align = "center">
-Joiner Software Engineer
+ Software Engineer
 <br>
 Minia, Egypt
 </p>
