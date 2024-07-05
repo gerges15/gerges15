@@ -1,61 +1,90 @@
-<!-- banner -->
-<p align ="center"> <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGN0eTZpb2l3dWJjaDR4anlmMXh6bTdpMnUxeDkwczhlZDA1NXdkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="75%" height= "auto" /> </p>
+<p align ="center"> 
+    <img src = "./assets/icons/banner.gif" width="75%" height= "auto" /> 
+</p>
 
-<!-- Summary Section  -->
 <p align-texts = "center" >
+  <h5>
+    <strong> HI THERE,</strong>
+  </h5>
 
-##### **HI THERE,**
-
-### I'm [**Gerges!**](#gerges-id) 👋
+  <h3>
+    I'm <a href= "#">Gerges!</a> 👋
+  </h3>
+</p>
 
 <p>
-
-I'm a **_front-end_** and **_computer science_** engineer, a Linux lover ❤️, <br>who loves exploring new technologies and tools. Every time I learn something new 💡, I try to write about it and share my knowledge with others.
-
+  I'm a
+  <strong>
+  <em>front-end</em>
+  </strong>
+  and
+  <strong>
+  <em>computer science</em>
+  </strong>
+  engineer, a Linux lover ❤️, <br>who loves exploring new technologies and tools. Every time I learn something new 💡, I try to write about it and share my knowledge with others.
 </p>
-
-<!-- About me Section -->
 <details>
-<!-- about me  start of section -->
-  <summary> More about me</summary>
+  <summary>
+    More about me
+  </summary>
   <br />
-<p align ="center">
-  <img  src = "./images/Mypic.png" width = "auto" href = "#"> </img>
-</p>
-<!-- Contact Details -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/gerges-samy404"><img height="25" width="25px"  alt="linkedin" title="Linkedin" src="https://cdn.simpleicons.org/linkedin/00ccff"/></a>
-    &#8287;&#8287;
-  <a href="https://www.facebook.com/gerges.samy.404/"><img height="25" width="25px" alt="Gmail" title="Facebook" src="https://cdn.simpleicons.org/facebook/0866FF"/></a>
-    &#8287;&#8287;
-</p>
 
-<!-- Name -->
-<h3 align = "center"> Gerges Samy </h3>
-<!-- Status -->
-<p align = "center">
-Joiner Software Engineer
-<br>
-Minia, Egypt
-</p>
+  <p align ="center">
+    <img  
+    src = "./assets/images/Mypic.png" 
+    width = "auto" 
+    href = "#"
+    /> 
+  </p>
 
-<!-- summary about my self -->
-<h3> Introduction  </h3>
-<!-- My Interpersonal Skills -->
-<h3> My Skills </h3>
-<!-- My Technologies Skills -->
-<div>
-<h3> Technologies  </h3>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/gerges-samy404">
+      <img 
+      height="25" 
+      width="25px"  
+      alt="linkedin" 
+      title="Linkedin" 
+      src="https://cdn.simpleicons.org/linkedin/00ccff"
+      />
+    </a>
+      &emsp13;
+    <a href="https://www.facebook.com/gerges.samy.404/">
+      <img 
+      height="25" 
+      width="25px"
+      alt="Gmail" 
+      title="Facebook" 
+      src="https://cdn.simpleicons.org/facebook/0866FF"
+      />
+    </a>
+  </p>
 
- <p> <em>i master </em></p>
- <br>
- <div>
- <p align = "center">
- Frontend
+  <h3 align = "center">
+    Gerges Samy
+  </h3>
+
+  <p align = "center">
+   Software Engineer
+  <br>
+    Minia, Egypt
+  </p>
+
+  <h3> Technologies  </h3>
+  <p>
+   <em>
+    i master 
+   </em>
+  </p>
+  <br>
+  
+  <div>
+  <p align = "center">
+    Frontend
+  </p>
 
 ##
 
-<p align = "center">
+  <p align = "center">
 <!-- javaScript Icon -->
   <img align = "center" height="32" width="32" title = "JavaScript"  src="https://cdn.simpleicons.org/javascript/_" />
    &#8287;&#8287;
@@ -72,7 +101,7 @@ Minia, Egypt
   <img align = "center" height="32" width="32" title = "Netlify" src="https://cdn.simpleicons.org/netlify/00C7B7" />
   <br>
 </p>
-</p>
+</h>
 </div>
 <!-- break comment line -->
  <br>
@@ -136,9 +165,6 @@ Platform
 <!-- Tailwind CSS UI Icon -->
   <img align = "center" height="32" width="32" title = "Tailwind CSS UI" src="https://cdn.simpleicons.org/tailwindcss/_" />
    &#8287;&#8287;
-<!-- Sass UI Icon -->
-  <img align = "center" height="32" width="32" title = "Sass UI" src="https://cdn.simpleicons.org/sass/FF69B4" />
-  <br>
 
 ###
 
@@ -212,6 +238,10 @@ Platform
   &#8287;&#8287; 
 <!-- NPM  Icon -->
 <img  align = "center" height="32" width="32" title = "Node Pacage Manager"  src="https://cdn.simpleicons.org/npm/FF69B4" />
+   &#8287;&#8287;
+<!-- Sass UI Icon -->
+  <img align = "center" height="32" width="32" title = "Sass UI" src="https://cdn.simpleicons.org/sass/FF69B4" />
+  <br>
 <!-- break comment line -->
 
 <!--Languages -->
@@ -230,33 +260,3 @@ Platform
 
 <!-- Stats end of section -->
 </details>
-
-
-<!--blocks to copy -->
-<!--
-//centered block
-<p align = "center">
-  type something here
-</p>
-
- <div>
- <p align = "center">
-  type something here
-
-##
-</p>
-</div>
-#########################
-//to make details section
-<details>
-  <summary>  Header</summary>
-    type something here
-</details>
-#########################
-//to make details section
-<details>
-  <summary>  ⚡ Github Status</summary>
-</details>
-
- -->
-<!---->
