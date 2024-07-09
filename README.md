@@ -136,9 +136,6 @@ Platform
 <!-- Tailwind CSS UI Icon -->
   <img align = "center" height="32" width="32" title = "Tailwind CSS UI" src="https://cdn.simpleicons.org/tailwindcss/_" />
    &#8287;&#8287;
-<!-- Sass UI Icon -->
-  <img align = "center" height="32" width="32" title = "Sass UI" src="https://cdn.simpleicons.org/sass/FF69B4" />
-  <br>
 
 ###
 
@@ -212,6 +209,10 @@ Platform
   &#8287;&#8287; 
 <!-- NPM  Icon -->
 <img  align = "center" height="32" width="32" title = "Node Pacage Manager"  src="https://cdn.simpleicons.org/npm/FF69B4" />
+   &#8287;&#8287;
+<!-- Sass UI Icon -->
+  <img align = "center" height="32" width="32" title = "Sass UI" src="https://cdn.simpleicons.org/sass/FF69B4" />
+  <br>
 <!-- break comment line -->
 
 <!--Languages -->
