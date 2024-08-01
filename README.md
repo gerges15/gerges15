@@ -23,6 +23,8 @@
   </strong>
   engineer, a Linux lover ❤️, <br>who loves exploring new technologies and tools. Every time I learn something new 💡, I try to write about it and share my knowledge with others.
 </p>
+
+<!-- About me Section -->
 <details>
   <summary>
     More about me
@@ -69,18 +71,19 @@
     Minia, Egypt
   </p>
 
-  <h3> Technologies  </h3>
-  <p>
-   <em>
-    i master 
-   </em>
-  </p>
-  <br>
-  
-  <div>
-  <p align = "center">
-    Frontend
-  </p>
+<!-- summary about my self -->
+<h3> Introduction  </h3>
+<!-- My Interpersonal Skills -->
+<h3> My Skills </h3>
+<!-- My Technologies Skills -->
+<div>
+<h3> Technologies  </h3>
+
+ <p> <em>i master </em></p>
+ <br>
+ <div>
+ <p align = "center">
+ Frontend
 
 ##
 
@@ -260,3 +263,32 @@ Platform
 
 <!-- Stats end of section -->
 </details>
+
+<!--blocks to copy -->
+<!--
+//centered block
+<p align = "center">
+  type something here
+</p>
+
+ <div>
+ <p align = "center">
+  type something here
+
+##
+</p>
+</div>
+#########################
+//to make details section
+<details>
+  <summary>  Header</summary>
+    type something here
+</details>
+#########################
+//to make details section
+<details>
+  <summary>  ⚡ Github Status</summary>
+</details>
+
+ -->
+<!---->
