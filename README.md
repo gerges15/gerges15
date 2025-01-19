@@ -22,7 +22,7 @@ Let’s connect and create something amazing.
 ### Rapid Fire
 
 * 🌍  I'm based in Egypt
-* ✉️  You can contact me at [jirgissamy79@gmail.com](mailto:jirgissamy78@gmail.com)
+* ✉️  You can contact me at [jirgissamy79@gmail.com](mailto:girgis.samy.dev@gmail.com)
 - 💬 Ask me about: **💡 JavaScript, React, Next.js, TypeScript, and RESTful APIs**
 - ⚡  Code Clean, Design Green
 
