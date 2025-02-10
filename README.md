@@ -1,4 +1,4 @@
-![Hi 👋 My name is Girgis Sami](./gitW.png)
+![Hi 👋 My name is Girgis Samy](./gitW.png)
 
 ![Profile views](https://komarev.com/ghpvc/?username=gerges15&label=Profile%20views&color=0e75b6&style=flat)
 
