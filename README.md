@@ -14,8 +14,10 @@
 
 ## Front-End Engineer | Back-End | Rust developer
 
-🚀 Passionate front-end developer specializing in React. I focus on creating robust, user-friendly web applications with an emphasis on performance optimization. Eager to contribute to open-source projects and collaborate within the development community, I enjoy exploring new technologies and expanding my skills.
-Let’s connect and create something amazing.
+You may ask why I'm so general??! And I will ask you what geeks programmers you know do ? While I've decided to become a Blockchain developer specializing in SMART Contract and DeFi development.
+<br>
+<br>
+So, be smart and make a contract with me :)
 
 ### Rapid Fire
 
