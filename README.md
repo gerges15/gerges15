@@ -14,10 +14,11 @@
 
 ## Smart Contract Engineer | Rust Developer | Blockchain Develpoer
 
-You may ask why I'm so general??! And I will ask you what geeks programmers you know do ? While I've decided to become a Blockchain developer specializing in SMART Contract and DeFi development.
-<br>
-<br>
-So, be smart and make a contract with me :)
+I've committed to becoming a Blockchain Developer, specializing in Smart Contracts and DeFi protocols. My journey is fueled by curiosity and a passion for deep, meaningful systems. While my current focus is DeFi and smart contract engineering, I'm also diving into operating systems and low-level development using Rust.
+
+I believe in building secure, efficient, and elegant blockchain solutions—and yes, I'm already hands-on with smart contract development and OS fundamentals.
+
+So, be smart… and make a contract with me. 😉
 
 ### Rapid Fire
 
