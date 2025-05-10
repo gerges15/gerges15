@@ -24,9 +24,15 @@ So, be smart… and make a contract with me. 😉
 
 - 🌍 I'm based in Egypt
 - ✉️ You can contact me at [girgis.samy.dev@gmail.com](mailto:girgis.samy.dev@gmail.com)
-
-* 💬 Ask me about: **💡 JavaScript, React, Next.js, TypeScript, and RESTful APIs**
 * ⚡ Code Clean, Design Green
+
+### 🔧 Ask me about:
+
+- 🧠 Smart Contracts (Solidity, DeFi, Ethereum)
+- ⚙️ Rust Development (Systems & Blockchain)
+- 🔗 Blockchain Architecture & Protocols
+- 📦 Web3 Integration (Ethers.js, wagmi, MetaMask)
+- 🌐 RESTful APIs & Full-Stack Web Dev (Next.js, React, TypeScript)
 
 ### Skills
 
