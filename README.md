@@ -18,7 +18,6 @@ I've committed to becoming a Blockchain Developer, specializing in Smart Contrac
 
 I believe in building secure, efficient, and elegant blockchain solutions—and yes, I'm already hands-on with smart contract development and OS fundamentals.
 
-So, be smart… and make a contract with me. 😉
 
 ### Rapid Fire
 
