@@ -12,7 +12,7 @@
   </ul>
 </div>
 
-## Front-End Engineer | Back-End | Rust developer
+## Smart Contract Engineer | Rust Developer | Blockchain Develpoer
 
 You may ask why I'm so general??! And I will ask you what geeks programmers you know do ? While I've decided to become a Blockchain developer specializing in SMART Contract and DeFi development.
 <br>
