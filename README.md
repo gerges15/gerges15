@@ -12,7 +12,7 @@
   </ul>
 </div>
 
-## Smart Contract Engineer | Blockchain Develpoer
+## Blockchain Develpoer | Smart Contract Engineer 
 
 I've committed to becoming a Blockchain Developer, specializing in Smart Contracts and DeFi protocols. My journey is fueled by curiosity and a passion for deep, meaningful systems. While my current focus is DeFi and smart contract engineering, I'm also diving into operating systems and low-level development using Rust.
 
