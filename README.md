@@ -1,4 +1,4 @@
-## Hi there 👋
+## Info
 
 <!--
 **gerges15/gerges15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌍 Gerges based in Egypt
+- ✉️ You can contact him at [girgis.samy.dev@gmail.com](mailto:girgis.samy.dev@gmail.com) ||   [jirgissamy78@gmail.com](mailto:jirgissamy78@gmail.com)
+* ⚡ Code Clean, Design Green
+  
