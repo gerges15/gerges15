@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌍 Gerges based in Egypt
-- ✉️ You can contact him at [girgis.samy.dev@gmail.com](mailto:girgis.samy.dev@gmail.com) ||   [jirgissamy78@gmail.com](mailto:jirgissamy78@gmail.com)
-* ⚡ Code Clean, Design Green
+- ✉️ You can contact him at [girgis.samy.dev@gmail.com](mailto:girgis.samy.dev@gmail.com) || [jirgissamy78@gmail.com](mailto:jirgissamy78@gmail.com)
+- ⚡ Code Clean, Design Green
   
